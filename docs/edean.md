@@ -1,12 +1,14 @@
 # Eric Dean
 
+[Hacking History Workbook](Http://hacking-history.readthedocs.io)
+
 1. something
 2. k
 3. k
 4. k
-5. k
-6. k
-7. k
-8. k
-9. k
-10. 
+
+* as
+* dsd
+  * faf
+  * fasf
+* sf
