@@ -2,6 +2,8 @@
 
 [Hacking History Workbook](Http://hacking-history.readthedocs.io)
 
+![Comic Book Image](http://www.blazingcariboustudios.com/wp-content/uploads/2016/10/Comic-Books.jpg)
+
 1. something
 2. k
 3. k
