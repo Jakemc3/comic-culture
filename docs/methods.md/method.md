@@ -1,0 +1,4 @@
+# Methods of Research
+
+For our research we used two primary databases: http://www.comicbookdb.com/ and http://www.dcindexes.com/. Both of these databases feature extensive catalogs of comic books and relevant information such as publisher and release date. dcindexes.com focuses more on the Detective Comics publisher, but both were suitable for our research since we were focusing on the Batman comics series.
+Both sites feature their own challenges when it comes to collecting data. Dcindexes was compiled by one individual who is a comic enthusiast who is also a programmer. There was some doubt has to how comprehensive the database was, but upon review it encompases a considerable amount of information about the DC publisher. One of the isues we encountered when scraping the data was how the price of each comic was entered into the database. The price was unselectable with webscraper and this complication affected our dataset.
