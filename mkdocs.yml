@@ -6,6 +6,7 @@ repo_url: https://github.com/thePortus/his4936-starter/
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
+- Project Goals: 'project_goals.md'
+- Data: 'data.md'
 - Methods of Research: 'method.md'
-    
 - Credits: 'credits.md'
