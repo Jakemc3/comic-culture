@@ -1,2 +1,4 @@
 # The Databases
-# Mike's Amazing Comics
+# [Mike's Amazing Comics](http://www.dcindexes.com/)
+Mike's was the first database that we looked at for our project. We began by searching for some comic books of the Marvel publsiher, but found that the results were somewhat lacking. Before giving up on the site we also searched for the DC publisher and uncovered an extensive list of entries. Upon further investigation we found that the creator of the database had intended the database to be comprehensive for all comic books, but at the time he did not have the time or money to complete the effort. Instead, he focused his efforts on DC because they are his favorite publisher. The about me page on the site revealed much about Mike's motivations. Mike is a professional web developer and he built the database by himslef during his free time. His sole purpose for the site is his love of comic books that he developed as a child.
+# [Comic Book DB](http://www.comicbookdb.com/)
