@@ -1,9 +1,12 @@
-site_name: HIS4936 Final Project Starter
+site_name: comic-culture
 theme_dir: theme
 theme: null
 copyright: 'Copyright &copy; 2017 <a href="mailto:dave.a.base@gmail.com">David J. Thomas</a>'
-repo_url: https://github.com/thePortus/his4936-starter/
+repo_url: https://github.com/Jakemc3/comic-culture
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
+- Project Goals: 'project_goals.md'
+- Data: 'data.md'
+- Methods of Research: 'method.md'
 - Credits: 'credits.md'
