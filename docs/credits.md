@@ -1,4 +1,4 @@
-# Project credits
+# Project Credits
 
 * Jake Calhoun - Project Management, Data Scientist
 * Eric Dean - Research and Historical Scholarship
